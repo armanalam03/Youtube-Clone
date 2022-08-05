@@ -1,4 +1,4 @@
-This is a Youtube Clone App made by using ReactJs..
+### `This is a Youtube Clone App made by using ReactJs.`
 
 In the project directory, you can run:
 
